@@ -1,0 +1,50 @@
+Informed Consent of Participation
+You are invited to participate in an online study to evaluate InsertDiffusion, initiated and conducted by Jannik Wiese and Phillip Müller. The research is supervised by Prof. Dr.-Ing. Lars Mikelsons at Uni Augsburg and Phillip Müller at Uni Augsburg/BMW. This study is funded and financed by the BMW group. Please note:
+
+Your participation is voluntary.
+The online study will last approximately 30 minutes.
+We will record personal demographics (age, gender, etc.).
+We may publish our results from this and other sessions, but all such reports will be confidential and will neither include your name nor cannot be associated with your identity.
+If you have any questions about the whole informed consent process of this research or your rights as a human research subject, please contact Phillip Müller (E-Mail: phillip.mueller@bmw.de). You should carefully read the settings below. (You may take as much time as you need to read the consent form.)
+
+1. Purpose and Goal of this Research
+We wish to evaluate and compare different approaches to insert given objects into new and predefined scenes and evaluate our new approach for inserting objects into new and predefined scenes. Your participation will help us achieve this goal. The results of this research may be presented at scientific or professional meetings or published in scientific proceedings and journals.
+
+2. Participation and Compensation
+Your participation in this online study is voluntary. You will be one of approximately 15 people being surveyed for this research. You will receive no compensation. You may withdraw and discontinue participation at any time without penalty. If you decline to participate or withdraw from the online study, no one will be told. If possible, you may refuse to answer any questions you do not want to answer or withdraw from participation at any time.
+
+3. Procedure
+After giving consent, you will be guided through the following steps:
+
+1. Fill out demographic questionnaire
+2. Rate images based on general appeal, prompt alignment, and object geometry retainment
+3. Complete study and submit questionnaire
+
+The complete procedure of this online study will last approximately 30 minutes.
+
+4. Risks and Benefits
+There are no risks associated with this online study. Discomforts or inconveniences will be minor and are unlikely to happen. If you feel uncomfortable, you may discontinue your participation. (You will not directly benefit through participation in this online study. We hope that the settings obtained from your participation may help to bring forward the research in this field.) With this research, we will advance knowledge in this research field.
+
+5. Data Protection and Confidentiality
+Personal data (age, gender, etc.) will be recorded during participation. The contact details of the study participants can be used to track potential infection chains. Researchers will not identify you by your real name in any reports using settings obtained from this online study, and your confidentiality as a participant in this online study will remain secure and encrypted. All data you provide in this online study will be published anonymized and treated confidentially in compliance with the General Data Protection Regulation (GDPR) of the European Union (EU). Subsequent uses of records and data will be subject to standard data use policies that protect the participating individuals' anonymity. In all cases, uses of records and data will be subject to the GDPR. Faculty and administrators from the campus will not have access to raw data or transcripts. This precaution will prevent your individual comments from having any negative repercussions. This site uses cookies and other tracking technologies to conduct the research, to improve the user experience, the ability to interact with the system and to provide additional content from third parties. Despite careful control of content, the researchers assume no liability for damages, which directly or indirectly result from the use of this online application. No one outside this research project can view any recordings unless we have you sign a separate permission form allowing us to use them (see below). Records that have not been made public will be deleted after the end of the research. The records will be destroyed if you contact the researcher to destroy or delete them immediately. As with any publication or online-related activity, the risk of a breach of confidentiality is always possible. According to the GDPR, the researchers will inform the participant if a breach of confidential data is detected.
+
+6. Identification of Investigators
+If you have any questions or concerns about the research, please feel free to contact:
+
+Jannik Wiese
+Jannik.Wiese@campus.lmu.de
+Jannik.Wiese@bmw.de
+
+Phillip Müller
+phillip.mueller@bmw.de
+Doktorand/PhD Candidate
+Entwicklung Gesamtfahrzeug - Neue Technologien (EG-D-14)
+Knorrstraße 147
+80788 München
+
+Prof. Dr.-Ing. Lars Mikelsons
+Professor/Head of Department
+lars.mikelsons@informatik.uni-augsburg.de
+Am Technologiezentrum 8
+86159 Augsburg
+

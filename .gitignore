@@ -1,0 +1,12 @@
+__pycache__
+__pycache__/*
+*.zip
+*.pickle
+*.pkl
+*.npz
+*.pdf
+*.safetensors
+*.pth
+*.json
+*.ckpt
+.ipynb_checkpoints
