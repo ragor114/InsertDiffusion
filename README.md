@@ -5,7 +5,7 @@ This repository contains the official implementation for the paper "InsertDiffus
 The implementation supports two different running modes:
 
 1. **image mode** - allows to "render" a preexisting image (arbitrary, as long as the background is white alternatively the object can be extracted from the original background by providing an object description) into an arbitrary background
-2. **point mode** - allows to create bike outlines from a point cloud and then insert the "rendered" bikes into an arbitrary background
+2. **point mode** - *(not central to our research)* allows to create bike outlines from a point cloud and then insert the "rendered" bikes into an arbitrary background
 
 In addition, the implementation offers the option to colorize the preexisting or generated images. When not using already colored images this drastically improves realism.
 
@@ -24,7 +24,9 @@ So for example:
 python main.py --image "./test_images/bikes/166.png" --background_prompt "a bicycle centered in frame in munich, 8k, red gemini, 50mm, f2.8, cinematic"
 ```
 
-Instead of providing a prompt directly you can use the auto-prompting features by providing the necessary information. For bikes you need to provide the desired location, the index of the bike and a path to the datasheet. For cars you will have to provide the desired new location, the car manufacturer and car type. For products only the new location and a product type is required
+Instead of providing a prompt directly you can use the auto-prompting features by providing the necessary information. For bikes you need to provide the desired location, the index of the bike and a path to the datasheet. For cars you will have to provide the desired new location, the car manufacturer and car type. For products only the new location and a product type is required.
+
+For further options and insertion into a given background consult the full CLI documentation below.
 
 Instead of using the CLI, you may integrate the procedure into your code with this python function (again make sure to have all dependencies installed and copy the utils module to your project):
 ```python
@@ -42,7 +44,7 @@ def insert_diffusion(image: Image, mask_threshold: int, prompt: str, negative_pr
 ```
 
 ### Point mode
-**Point mode follows the implementation by *Ioan-Daniel Craciun* which is in turn based on the DDPM/DDIM implementation by *Jiajae Fan*.**
+We implemented an additional method to generate Biked images from point clouds and then insert them into a background. **This method does not work well, however, and is, therefore, *not central to our research*.** The generation from point clouds was implementation by *Ioan-Daniel Craciun* and is based upon a DDPM/DDIM implemented and trained by *Jiajae Fan*.
 
 To create images from point clouds remove the `--image` argument from your CLI call. In point mode you have to provide a datasheet path via `--datasheet_path`. Thus, the minimal CLI command becomes:
 
@@ -86,7 +88,7 @@ def colorization(image: Image, colorization_model: str, upscaling_model: str, co
 ### CLI arguments
 *Note*: CLI is still under construction and might be subject to change.
 
-*Note*: Where appllicable default values represent the parameters determined in our experiments. But different values might be optimal depending on the specific use case.
+*Note*: Where applicable default values represent the parameters determined in our experiments. But different values might be optimal depending on the specific use case.
 
 | argument | type | description |
 | -- | -- | -- |
