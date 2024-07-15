@@ -1,5 +1,5 @@
 # InsertDiffusion
-This repository contains the official implementation for the paper "InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture" submitted to WACV 2025.
+This repository contains the official implementation for the paper "InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture".
 
 ## Usage
 The implementation supports two different running modes:
