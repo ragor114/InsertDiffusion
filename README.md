@@ -155,5 +155,10 @@ Human-Evaluation metrics and inferential statistics were computed using the prov
 If find our work helpful and want to use it for your research or project, please cite the paper as follows:
 
 ```bibtex
-tba
+@misc{2407.10592,
+Author = {Phillip Mueller and Jannik Wiese and Ioan Craciun and Lars Mikelsons},
+Title = {InsertDiffusion: Identity Preserving Visualization of Objects through a Training-Free Diffusion Architecture},
+Year = {2024},
+Eprint = {arXiv:2407.10592},
+}
 ```
